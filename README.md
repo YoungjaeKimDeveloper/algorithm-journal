@@ -23,15 +23,10 @@ I'm currently studying **Data Structures and Algorithms (DSA)** while developing
 
 ---
 
-### 🏆 Achievements So Far
-
-- Completed several MERN stack projects
-- Solved **X** algorithm problems on LeetCode
-
 ---
 
 ### 📬 Let’s Connect
 
-Feel free to check out my GitHub and reach out for any collaboration or questions!
+Feel free to check out my LinkedIn and reach out for any collaboration or questions!
 
-[GitHub Profile](https://github.com/yourusername)
+[LinkedIn Profile](https://www.linkedin.com/in/youngjaekimdeveloper/)
