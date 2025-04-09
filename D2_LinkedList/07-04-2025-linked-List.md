@@ -1,3 +1,4 @@
+# Today's Notes 07-04-2025
 Today's Notes
 
 1. Array VS LinkedList

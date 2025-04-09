@@ -1,3 +1,5 @@
+# Today's Notes 06-04-2025
+
 Today's Notes
 
 1. Primitive vs Reference Types
