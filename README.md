@@ -9,7 +9,7 @@ I'm currently studying **Data Structures and Algorithms (DSA)** while developing
 ### 📚 What I’m Learning
 
 - **Data Structures & Algorithms**
-- **MERN Stack (MongoDB, Express, React, Node.js)**
+- **MERN Stack (MongoDB, Express, React, Node.js & Tailwnd)**
 - **Flutter & Firebase**
 - **TypeScript & JavaScript**
 
